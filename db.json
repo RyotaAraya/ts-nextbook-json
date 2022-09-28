@@ -24,7 +24,7 @@
       "category": "pressureGauge",
       "imageUrl": "/products/pressureGauge/pressureGauge02.png",
       "price": 1000,
-      "condition": "1BH",
+      "condition": "1SP",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -75,7 +75,7 @@
       "category": "pressureGauge",
       "imageUrl": "/products/pressureGauge/pressureGauge05.png",
       "price": 3000,
-      "condition": "1BH",
+      "condition": "1SP",
       "owner": {
         "id": 3,
         "username": "kourin",
@@ -143,7 +143,7 @@
       "category": "flowmeter",
       "imageUrl": "/products/flowmeter/flowmeter04.png",
       "price": 2000,
-      "condition": "1BH",
+      "condition": "2SP",
       "owner": {
         "id": 2,
         "username": "takuya",
@@ -177,7 +177,7 @@
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer01.png",
       "price": 6000,
-      "condition": "1BH",
+      "condition": "2SP",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -211,7 +211,7 @@
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer03.png",
       "price": 10000,
-      "condition": "2BH",
+      "condition": "2SP",
       "owner": {
         "id": 2,
         "username": "takuya",
@@ -245,7 +245,7 @@
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer05.png",
       "price": 9000,
-      "condition": "1BH",
+      "condition": "1SP",
       "owner": {
         "id": 3,
         "username": "kourin",
@@ -262,7 +262,7 @@
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer06.png",
       "price": 7000,
-      "condition": "1BH",
+      "condition": "2SP",
       "owner": {
         "id": 3,
         "username": "kourin",
