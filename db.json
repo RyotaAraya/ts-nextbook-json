@@ -7,7 +7,7 @@
       "category": "pressureGauge",
       "imageUrl": "/products/pressureGauge/pressureGauge01.png",
       "price": 5000,
-      "condition": "1BH",
+      "progress": "done",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -24,7 +24,7 @@
       "category": "pressureGauge",
       "imageUrl": "/products/pressureGauge/pressureGauge02.png",
       "price": 1000,
-      "condition": "1SP",
+      "progress": "notStarted",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -41,7 +41,7 @@
       "category": "pressureGauge",
       "imageUrl": "/products/pressureGauge/pressureGauge03.png",
       "price": 500,
-      "condition": "2BH",
+      "progress": "notStarted",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -58,7 +58,7 @@
       "category": "pressureGauge",
       "imageUrl": "/products/pressureGauge/pressureGauge04.png",
       "price": 2000,
-      "condition": "1BH",
+      "progress": "done",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -75,7 +75,7 @@
       "category": "pressureGauge",
       "imageUrl": "/products/pressureGauge/pressureGauge05.png",
       "price": 3000,
-      "condition": "1SP",
+      "progress": "notStarted",
       "owner": {
         "id": 3,
         "username": "kourin",
@@ -92,7 +92,7 @@
       "category": "flowmeter",
       "imageUrl": "/products/flowmeter/flowmeter01.png",
       "price": 1000,
-      "condition": "2BH",
+      "progress": "notStarted",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -109,7 +109,7 @@
       "category": "flowmeter",
       "imageUrl": "/products/flowmeter/flowmeter02.png",
       "price": 2000,
-      "condition": "2BH",
+      "progress": "notStarted",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -126,7 +126,7 @@
       "category": "flowmeter",
       "imageUrl": "/products/flowmeter/flowmeter03.png",
       "price": 5000,
-      "condition": "1BH",
+      "progress": "doing",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -143,7 +143,7 @@
       "category": "flowmeter",
       "imageUrl": "/products/flowmeter/flowmeter04.png",
       "price": 2000,
-      "condition": "2SP",
+      "progress": "notStarted",
       "owner": {
         "id": 2,
         "username": "takuya",
@@ -160,7 +160,7 @@
       "category": "flowmeter",
       "imageUrl": "/products/flowmeter/flowmeter05.png",
       "price": 3000,
-      "condition": "1BH",
+      "progress": "notStarted",
       "owner": {
         "id": 2,
         "username": "takuya",
@@ -177,7 +177,7 @@
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer01.png",
       "price": 6000,
-      "condition": "2SP",
+      "progress": "notStarted",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -194,7 +194,7 @@
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer02.png",
       "price": 12000,
-      "condition": "2BH",
+      "progress": "notStarted",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -211,7 +211,7 @@
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer03.png",
       "price": 10000,
-      "condition": "2SP",
+      "progress": "notStarted",
       "owner": {
         "id": 2,
         "username": "takuya",
@@ -228,7 +228,7 @@
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer04.png",
       "price": 7000,
-      "condition": "2BH",
+      "progress": "notStarted",
       "owner": {
         "id": 2,
         "username": "takuya",
@@ -245,7 +245,7 @@
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer05.png",
       "price": 9000,
-      "condition": "1SP",
+      "progress": "notStarted",
       "owner": {
         "id": 3,
         "username": "kourin",
@@ -262,7 +262,7 @@
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer06.png",
       "price": 7000,
-      "condition": "2SP",
+      "progress": "notStarted",
       "owner": {
         "id": 3,
         "username": "kourin",
@@ -279,7 +279,7 @@
       "category": "flameDetector",
       "imageUrl": "/products/flameDetector/flameDetector01.png",
       "price": 6000,
-      "condition": "1BH",
+      "progress": "notStarted",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -296,7 +296,7 @@
       "category": "flameDetector",
       "imageUrl": "/products/flameDetector/flameDetector02.png",
       "price": 6000,
-      "condition": "2BH",
+      "progress": "notStarted",
       "owner": {
         "id": 2,
         "username": "takuya",
@@ -313,7 +313,7 @@
       "category": "flameDetector",
       "imageUrl": "/products/flameDetector/flameDetector03.png",
       "price": 6000,
-      "condition": "1SP",
+      "progress": "doing",
       "owner": {
         "id": 1,
         "username": "taketo",
@@ -330,7 +330,7 @@
       "category": "flameDetector",
       "imageUrl": "/products/flameDetector/flameDetector04.png",
       "price": 6000,
-      "condition": "2SP",
+      "progress": "postponed",
       "owner": {
         "id": 2,
         "username": "takuya",
@@ -347,7 +347,7 @@
       "category": "flameDetector",
       "imageUrl": "/products/flameDetector/flameDetector05.png",
       "price": 6000,
-      "condition": "2SP",
+      "progress": "notStarted",
       "owner": {
         "id": 3,
         "username": "kourin",
