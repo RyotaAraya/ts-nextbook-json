@@ -6,7 +6,6 @@
       "description": "指示不審。ノズル詰まり気味.",
       "category": "pressureGauge",
       "imageUrl": "/products/pressureGauge/pressureGauge01.png",
-      "price": 5000,
       "progress": "done",
       "owner": {
         "id": 1,
@@ -23,7 +22,6 @@
       "description": "指示不審。指示値振れあり。",
       "category": "pressureGauge",
       "imageUrl": "/products/pressureGauge/pressureGauge02.png",
-      "price": 1000,
       "progress": "notStarted",
       "owner": {
         "id": 1,
@@ -40,7 +38,6 @@
       "description": "雨水侵入。",
       "category": "pressureGauge",
       "imageUrl": "/products/pressureGauge/pressureGauge03.png",
-      "price": 500,
       "progress": "notStarted",
       "owner": {
         "id": 1,
@@ -57,7 +54,6 @@
       "description": "0点ずれ。",
       "category": "pressureGauge",
       "imageUrl": "/products/pressureGauge/pressureGauge04.png",
-      "price": 2000,
       "progress": "done",
       "owner": {
         "id": 1,
@@ -74,7 +70,6 @@
       "description": "液漏れあり、指示不審。",
       "category": "pressureGauge",
       "imageUrl": "/products/pressureGauge/pressureGauge05.png",
-      "price": 3000,
       "progress": "notStarted",
       "owner": {
         "id": 3,
@@ -91,7 +86,6 @@
       "description": "指示振れあり。",
       "category": "flowmeter",
       "imageUrl": "/products/flowmeter/flowmeter01.png",
-      "price": 1000,
       "progress": "notStarted",
       "owner": {
         "id": 1,
@@ -108,7 +102,6 @@
       "description": "雨水侵入。フランジ漏れ。",
       "category": "flowmeter",
       "imageUrl": "/products/flowmeter/flowmeter02.png",
-      "price": 2000,
       "progress": "notStarted",
       "owner": {
         "id": 1,
@@ -125,7 +118,6 @@
       "description": "0点ずれ。調整お願いいたします。",
       "category": "flowmeter",
       "imageUrl": "/products/flowmeter/flowmeter03.png",
-      "price": 5000,
       "progress": "doing",
       "owner": {
         "id": 1,
@@ -142,7 +134,6 @@
       "description": "指示不審、流量なしで指示でる。",
       "category": "flowmeter",
       "imageUrl": "/products/flowmeter/flowmeter04.png",
-      "price": 2000,
       "progress": "notStarted",
       "owner": {
         "id": 2,
@@ -159,7 +150,6 @@
       "description": "フランジリーク。増し締めしました。",
       "category": "flowmeter",
       "imageUrl": "/products/flowmeter/flowmeter05.png",
-      "price": 3000,
       "progress": "notStarted",
       "owner": {
         "id": 2,
@@ -176,7 +166,6 @@
       "description": "指示振れ。誤差あり。",
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer01.png",
-      "price": 6000,
       "progress": "notStarted",
       "owner": {
         "id": 1,
@@ -193,7 +182,6 @@
       "description": "リモートシール摩耗あり。",
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer02.png",
-      "price": 12000,
       "progress": "notStarted",
       "owner": {
         "id": 1,
@@ -210,7 +198,6 @@
       "description": "上流の温度計と誤差10℃あり。",
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer03.png",
-      "price": 10000,
       "progress": "notStarted",
       "owner": {
         "id": 2,
@@ -227,7 +214,6 @@
       "description": "アラームポイントずれあり、調整要。",
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer04.png",
-      "price": 7000,
       "progress": "notStarted",
       "owner": {
         "id": 2,
@@ -244,7 +230,6 @@
       "description": "指示振れ。",
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer05.png",
-      "price": 9000,
       "progress": "notStarted",
       "owner": {
         "id": 3,
@@ -261,7 +246,6 @@
       "description": "温度計先端摩耗あり。交換検討。",
       "category": "thermometer",
       "imageUrl": "/products/thermometer/thermometer06.png",
-      "price": 7000,
       "progress": "notStarted",
       "owner": {
         "id": 3,
@@ -278,7 +262,6 @@
       "description": "1号ボイラーの火炎検知器。ちらつきが頻発している。",
       "category": "flameDetector",
       "imageUrl": "/products/flameDetector/flameDetector01.png",
-      "price": 6000,
       "progress": "notStarted",
       "owner": {
         "id": 1,
@@ -295,7 +278,6 @@
       "description": "2号ボイラーの火炎検知器。不検知頻発",
       "category": "flameDetector",
       "imageUrl": "/products/flameDetector/flameDetector02.png",
-      "price": 6000,
       "progress": "notStarted",
       "owner": {
         "id": 2,
@@ -312,7 +294,6 @@
       "description": "1号発電機の火炎検知器。不検知頻発",
       "category": "flameDetector",
       "imageUrl": "/products/flameDetector/flameDetector03.png",
-      "price": 6000,
       "progress": "doing",
       "owner": {
         "id": 1,
@@ -329,7 +310,6 @@
       "description": "2号発電機の火炎検知器。調整お願いします。",
       "category": "flameDetector",
       "imageUrl": "/products/flameDetector/flameDetector04.png",
-      "price": 6000,
       "progress": "postponed",
       "owner": {
         "id": 2,
@@ -346,7 +326,6 @@
       "description": "2号発電機の火炎検知器。調整お願いします。",
       "category": "flameDetector",
       "imageUrl": "/products/flameDetector/flameDetector05.png",
-      "price": 6000,
       "progress": "notStarted",
       "owner": {
         "id": 3,
